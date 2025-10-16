@@ -7,7 +7,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farid-shojaeimehr)
-  ![Profile Views](https://komarev.com/ghpvc/?username=faridshojaemehr&color=6366f1&style=for-the-badge)
+  <-- ![Profile Views](https://komarev.com/ghpvc/?username=faridshojaemehr&color=6366f1&style=for-the-badge) --/>
   
 </div>
 
@@ -110,7 +110,7 @@ When I'm not crafting software, you'll find me:
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farid-shojaeimehr)
-  [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faridshojaemehr@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
   
 </div>
