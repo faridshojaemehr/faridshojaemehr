@@ -6,9 +6,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farid-shojaeimehr)
-  <-- ![Profile Views](https://komarev.com/ghpvc/?username=faridshojaemehr&color=6366f1&style=for-the-badge) --/>
-  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farid-shojaeimehr)  
 </div>
 
 ---
